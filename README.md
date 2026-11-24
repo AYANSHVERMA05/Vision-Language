@@ -14,6 +14,10 @@ An end-to-end Vision-Language multimodal framework that processes any uploaded i
 - **NetworkX** — semantic scene graph construction & visualization
 - **Streamlit** — professional dark-themed interactive dashboard
 
+
+DOWNLOAD THE ZIP FILE ------
+
+
 ## Installation
 ```bash
 cd vision-language-framework
