@@ -1,8 +1,4 @@
 # Vision-Language Framework for Multimodal Scene Understanding
-
-**Student:** AYANSH VERMA (2403A54025)  
-**Course:** 24BTCAI CSB18
-
 ---
 
 ## Project Overview
